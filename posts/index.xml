@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Julies Personal Website</title>
+    <link>http://JulieBoberg.github.io/posts/</link>
+    <description>Recent content in Posts on Julies Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Dec 2022 14:59:07 -0800</lastBuildDate><atom:link href="http://JulieBoberg.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is my first post</title>
+      <link>http://JulieBoberg.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 14 Dec 2022 14:59:07 -0800</pubDate>
+      
+      <guid>http://JulieBoberg.github.io/posts/my-first-post/</guid>
+      <description>This is a post that I hope shows up on the front page. That would be really helpful.</description>
+      <content>&lt;p&gt;This is a post that I hope shows up on the front page. That would be really helpful.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
